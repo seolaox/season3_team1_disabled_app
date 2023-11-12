@@ -30,11 +30,9 @@ AIModel 분석 Github으로 이동하기 </a>
 ------
 
 ### 기능 설명
-- R Serve를 이용한 AI model을 활용한 직종 추천
-- Google Maps Api를 활용한 위치 기반 장애인 기관 추천
-- Mail 을 이용한 비밀번호 찾기
-- FireStorage를 이용한 아바타 표현
-- Google, KAKAO OAath 로그인
+-
+-
+
 ---
 #### Database    
     MySQL
